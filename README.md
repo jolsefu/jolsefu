@@ -1,5 +1,5 @@
-<h1 align="center" style="font-color: white;">Hey there! 👋, I'm Jules</h1>
-<h3 align="center">An aspiring software engineer</h3>
+<span align="center">Hey there! 👋, I'm Jules</span>
+<span align="center">An aspiring software engineer</span>
 
 ## About Me
 A __beginner__ at Computer Science and Programming.
