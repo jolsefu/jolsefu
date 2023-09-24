@@ -1,3 +1,9 @@
+<style>
+  h1 a {
+    display: none;
+  }
+</style>
+
 <h1 align="center" style="font-color: white;">Hey there! 👋, I'm Jules</h1>
 <h3 align="center">An aspiring software engineer</h3>
 
