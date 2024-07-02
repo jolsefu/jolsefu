@@ -5,7 +5,7 @@ I am **Jules Leo Reserva**, an aspiring Software Engineer.
 **Passionate** about Computer Science and Programming.
 
 - 😄 Pronouns: He/Him
-- 📫 Reach me: **rjolsef@gmail.com**
+- 📫 Reach me: **jules.leo.reserva@gmail.com**
 - 🏫 Currently taking: Bachelor of Science in Computer Science at Caraga State University
 
 ## Status
